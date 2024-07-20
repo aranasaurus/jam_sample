@@ -22,7 +22,7 @@ env:
   PACKAGE_NAME: jam_sample
   # The itch.io page to upload to, in the format: `user-name/project-name`.
   # Comment this out to disable.
-  ITCH_TARGET: aranasaurus/jam_sample
+  ITCH_TARGET: aranasaurus/jam-sample
   # The organization or author that owns the rights to the game.
   OWNER: aranasaurus
   # The path to the assets directory.
